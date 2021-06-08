@@ -1,0 +1,13 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 14px;
+  border: 1px solid gray;
+  padding: 14px;
+
+  .add {
+    padding: 30px;
+    cursor: pointer;
+  }
+}

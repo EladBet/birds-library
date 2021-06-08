@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  overflow: hidden;
+
+  .side-bar {
+    width: 40%;
+    height: 97vh;
+    overflow-y: scroll;
+  }
+
+  .main {
+    width: 60%
+  }
+}

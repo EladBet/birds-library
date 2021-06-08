@@ -1,2 +1,2 @@
-# birds-library
-Created with CodeSandbox
+# Birds Library
+React app with lazy loading
